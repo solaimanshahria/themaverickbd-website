@@ -457,6 +457,10 @@ CONTACT
 
 .email{
 
+    display:block;
+
+    width:100%;
+
     color:#ff2b4f;
 
     font-size:22px;
@@ -464,6 +468,10 @@ CONTACT
     text-decoration:none;
 
     font-weight:700;
+
+    word-break:break-word;
+
+    overflow-wrap:anywhere;
 
 }
 
