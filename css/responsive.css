@@ -16,10 +16,6 @@ font-size:22px;
 gap:20px;
 }
 
-.social-grid{
-grid-template-columns:repeat(2,1fr);
-}
-
 }
 
 
@@ -88,12 +84,6 @@ text-align:center;
 .about-box{
 
 padding:35px 25px;
-
-}
-
-.social-grid{
-
-grid-template-columns:1fr;
 
 }
 
